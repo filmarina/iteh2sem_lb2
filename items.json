@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62752abd0da1739cbc338703"
+  },
+  "name": "Манга \"Атака титанов\"",
+  "price": 100,
+  "quantity": 10,
+  "quality": 5,
+  "Vendor": "Джамп",
+  "Category": "Манга"
+},{
+  "_id": {
+    "$oid": "62752d5f0da1739cbc338705"
+  },
+  "name": "Плакат \"Кошечка из Сакурасо\" ",
+  "price": 20,
+  "quantity": 3,
+  "quality": 4,
+  "Vendor": "УкрМанга",
+  "Category": "Плакаты"
+},{
+  "_id": {
+    "$oid": "62752dd60da1739cbc338707"
+  },
+  "name": "Манхва \"Ветролом\"",
+  "price": 160,
+  "quantity": 15,
+  "quality": 3,
+  "Vendor": "Сквозняк",
+  "Category": "Манга"
+},{
+  "_id": {
+    "$oid": "62752e0e0da1739cbc338709"
+  },
+  "name": "Брелок \"Ходячий замок\" ",
+  "price": 50,
+  "quantity": 0,
+  "quality": 4,
+  "Vendor": "АнимеХаус",
+  "Category": "Значки"
+},{
+  "_id": {
+    "$oid": "62752e720da1739cbc33870a"
+  },
+  "name": "Маньхуа \"19 дней\" ",
+  "price": 200,
+  "quantity": 10,
+  "quality": 5,
+  "Vendor": "Маскот",
+  "Category": "Манга"
+},{
+  "_id": {
+    "$oid": "62752eaf0da1739cbc33870b"
+  },
+  "name": "Значок \"Магическая битва\" ",
+  "price": 60,
+  "quantity": 110,
+  "quality": 2,
+  "Vendor": "Сквозняк",
+  "Category": "Значки"
+},{
+  "_id": {
+    "$oid": "62752ee20da1739cbc33870c"
+  },
+  "name": "CD \"Twice\" ",
+  "price": 150,
+  "quantity": 0,
+  "quality": 5,
+  "Vendor": "Сквозняк",
+  "Category": "Диски"
+},{
+  "_id": {
+    "$oid": "62752f2f0da1739cbc33870e"
+  },
+  "name": "Диск \"Вокалоиды\" ",
+  "price": 60,
+  "quantity": 10,
+  "quality": 5,
+  "Vendor": "УкрМанга",
+  "Category": "Диски"
+}]
